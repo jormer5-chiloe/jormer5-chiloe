@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 
 🔭 Actualmente estoy aprendiendo Python y Django y creando pequeños proyectos web. 
 🌱 Actualmente estoy aprendiendo AWS Cloud Practitioner, procesamiento de datos con Python. 
@@ -9,4 +9,3 @@
 💬 Pregúntame sobre los conceptos básicos de Python, SQL y aprender a programar. 
 📫 Cómo contactarme: jormer5@gmail.com 
 ⚡ Dato curioso: me gusta aprender nuevas tecnologías y comenzando a experimentar con sistemas Linux.
--->
