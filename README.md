@@ -1,18 +1,42 @@
-## Hola 👋
+## 👋 Hola, soy Jorge
 
+💻 Desarrollador en formación enfocado en backend y datos.
 
+🔭 Actualmente estoy trabajando en pequeños proyectos web con **Python y Django**  
+🌱 Aprendiendo **AWS Cloud Practitioner** y procesamiento de datos con Python  
+👯 Buscando colaborar en proyectos para principiantes en **Python** y **Análisis de Datos**  
+🤔 Interesado en aprender despliegue en la nube y mejorar mis habilidades backend  
+💬 Pregúntame sobre Python, SQL y cómo empezar en programación  
+📫 Contacto: **jormer5@gmail.com**  
+⚡ Dato curioso: me gusta aprender nuevas tecnologías y experimentar con sistemas Linux  
 
-🔭 Actualmente estoy aprendiendo Python y Django y creando pequeños proyectos web. 
+---
 
-🌱 Actualmente estoy aprendiendo AWS Cloud Practitioner, procesamiento de datos con Python. 
+## 🛠️ Tecnologías en aprendizaje
 
-👯 Estoy buscando colaborar en proyectos para principiantes en Python y Analisis de Datos. 
+- 🐍 Python  
+- 🌐 Django  
+- ☁️ AWS  
+- 🔧 Git & GitHub  
+- 🐧 Linux  
 
-🤔 Busco ayuda para desplegar en la nube y mejorar mis habilidades de desarrollo backend. 
+---
 
-💬 Pregúntame sobre los conceptos básicos de Python, SQL y aprender a programar. 
+## 📂 Proyectos
 
-📫 Cómo contactarme: jormer5@gmail.com 
+### 🪙 AlkaWallet
+Aplicación web desarrollada con Django para la gestión de finanzas personales.
 
-⚡ Dato curioso: me gusta aprender nuevas tecnologías y comenzando a experimentar con sistemas Linux.
+🔗 Ver proyecto: https://github.com/TU-USUARIO/alkawallet
 
+**Tecnologías:**
+- Python
+- Django
+- SQLite / PostgreSQL
+
+🚀 Algunos proyectos en los que estoy trabajando:
+
+- 📌 Aplicaciones web con Django  
+- 📌 Scripts de automatización en Python  
+- 📌 Procesamiento de datos con Python  
+📈 GitHub Stats
