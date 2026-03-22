@@ -39,4 +39,4 @@ Aplicación web desarrollada con Django para la gestión de finanzas personales.
 - 📌 Aplicaciones web con Django  
 - 📌 Scripts de automatización en Python  
 - 📌 Procesamiento de datos con Python  
-📈 GitHub Stats
+
