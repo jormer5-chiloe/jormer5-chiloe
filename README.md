@@ -44,6 +44,11 @@ Aplicación web para administrar los ticket de soporte.
 
 🔗 Ver proyecto: https://github.com/jormer5-chiloe/soporte_empresa
 
+### 🪙 Prestamos de Bibliotecas
+Aplicación web desarrollada con Django para gestionar el préstamo de libros en una biblioteca
+
+🔗 Ver proyecto: https://github.com/jormer5-chiloe/biblioteca_project
+
 **Tecnologías:**
 - Python
 - Django
