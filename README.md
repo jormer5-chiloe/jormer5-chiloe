@@ -35,7 +35,7 @@ Aplicación web desarrollada con Django para la gestión de finanzas personales.
 🔗 Ver proyecto: https://github.com/jormer5-chiloe/Alke_wallet
 
 ### 🪙 Prestamos Lab
-Aplicación web desarrollada con Django para la gestión de finanzas personales.
+Aplicación web para administrar el préstamo de notebooks.
 
 🔗 Ver proyecto: https://github.com/jormer5-chiloe/prestamos_lab
 
