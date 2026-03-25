@@ -39,6 +39,11 @@ Aplicación web para administrar el préstamo de notebooks.
 
 🔗 Ver proyecto: https://github.com/jormer5-chiloe/prestamos_lab
 
+### 🪙 Soporte Empresa
+Aplicación web para administrar los ticket de soporte.
+
+🔗 Ver proyecto: https://github.com/jormer5-chiloe/soporte_empresa
+
 **Tecnologías:**
 - Python
 - Django
